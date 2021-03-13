@@ -114,15 +114,15 @@ p {
 }
 
 .post, .about {
-  max-width: 800px;
+  max-width: 750px;
   margin: 0 auto;
   padding: 60px 0;
 }
 
-.post-author img,
-.about-author img, {
+.post-author img, .about-author img, {
   border-radius: 50%;
 }
+
 
 .post-container:nth-child(even) {
   background-color:#f2f2f2;
